@@ -1,29 +1,58 @@
-# 👨‍💻 Hey there, I'm Wahidur Rahaman
+<!-- GitHub Profile README for Wahidur Rahaman -->
 
-🎯 Data Enthusiast | Excel Expert | Learning Python & SQL
+<h1 align="center">Hi, I'm Wahidur Rahaman 👋</h1>
 
-I'm Wahidur, passionate about turning raw data into meaningful insights. I’ve completed the **Data Analyst course from PW Skills** and am currently sharpening my skills in **Python**, **SQL**, **Power BI**, and **Statistics**.
+<p align="center">
+  <em>Data Enthusiast | Excel Pro | Learning Python & Power BI</em>
+</p>
 
-I enjoy solving real-world problems with data, automating tasks, and creating clean, insightful dashboards. I'm constantly learning and growing in the data space to build a strong career as a data analyst.
-
----
-
-## 🚀 Skills & Tools
-
-- **Excel** – Advanced formulas, Pivot Tables, Data Cleaning, Dashboards  
-- **SQL** – Joins, Subqueries, Window Functions  
-- **Python** – Pandas, NumPy, Matplotlib, Seaborn  
-- **Power BI** – Reports, Visuals, Dashboards  
-- **Statistics** – Descriptive & Inferential Analysis
+<p align="center">
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-005C84?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+</p>
 
 ---
 
-## 📬 Connect with Me
+## 🧠 About Me
 
-- 🔗 [LinkedIn](https://www.linkedin.com/in/wahidur-rahaman-22a42a20b)  
-- 💻 [GitHub](https://github.com/Wahidur123)  
-- 📧 wahidur@example.com *(replace with actual email)*
+I'm a passionate data explorer who recently completed the **PW Skills Data Analyst Course**.  
+I love playing with raw data, cleaning it, analyzing trends, and visualizing insights.
+
+Currently focused on:
+
+- Mastering **Python for data analysis**
+- Writing efficient **SQL queries**
+- Building clean **Power BI dashboards**
+- Applying **statistics** to solve real-world problems
 
 ---
 
-Thanks for stopping by!
+## 🛠️ Tech Stack
+
+- **Languages**: Python, SQL, DAX  
+- **Tools**: Excel, Power BI, Jupyter Notebook  
+- **Libraries**: Pandas, NumPy, Matplotlib, Seaborn  
+- **Concepts**: Data Cleaning, EDA, Visualization, Basic ML, Reporting
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Wahidur123&show_icons=true&theme=default" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Wahidur123&theme=default" width="48%" />
+</p>
+
+---
+
+## 📫 Let’s Connect
+
+- 🌐 [LinkedIn](https://www.linkedin.com/in/wahidur-rahaman-22a42a20b)
+- 💻 [GitHub](https://github.com/Wahidur123)
+- 📧 Email: wahidur@example.com *(update with real one)*
+
+---
+
+*Thanks for stopping by! Feel free to explore my repos and connect.* 😊
