@@ -1,25 +1,29 @@
-# Data Analyst Portfolio - PW Skills
+# 👨‍💻 Hey there, I'm Wahidur Rahaman
 
-Welcome to my GitHub portfolio! I’m **Wahidur Rahaman**, a passionate and detail-oriented aspiring **Data Analyst**. This repository contains all the resources and practice work I’ve completed during the **Data Analyst Course from PW Skills**.
+🎯 Data Enthusiast | Excel Expert | Learning Python & SQL
 
----
+I'm Wahidur, passionate about turning raw data into meaningful insights. I’ve completed the **Data Analyst course from PW Skills** and am currently sharpening my skills in **Python**, **SQL**, **Power BI**, and **Statistics**.
 
-## 👨‍💻 About Me
-
-- ✅ Completed Data Analyst course from **PW Skills**
-- 📊 Skilled in **Excel, SQL, Python, Power BI, and Statistics**
-- 🎯 Focused on transforming raw data into meaningful insights
-- 🧠 Strong foundation in data cleaning, visualization, and interpretation
-- 🚀 Constantly learning and improving in the data domain
+I enjoy solving real-world problems with data, automating tasks, and creating clean, insightful dashboards. I'm constantly learning and growing in the data space to build a strong career as a data analyst.
 
 ---
 
-## 📬 Contact
+## 🚀 Skills & Tools
 
-- 🔗 LinkedIn: [linkedin.com/in/wahidur-rahaman-22a42a20b](https://www.linkedin.com/in/wahidur-rahaman-22a42a20b)  
-- 💻 GitHub: [github.com/Wahidur123](https://github.com/Wahidur123)  
-- 📧 Email: wahidurrahaman11301@gmail.com 
+- **Excel** – Advanced formulas, Pivot Tables, Data Cleaning, Dashboards  
+- **SQL** – Joins, Subqueries, Window Functions  
+- **Python** – Pandas, NumPy, Matplotlib, Seaborn  
+- **Power BI** – Reports, Visuals, Dashboards  
+- **Statistics** – Descriptive & Inferential Analysis
 
 ---
 
-Thanks for visiting my profile!
+## 📬 Connect with Me
+
+- 🔗 [LinkedIn](https://www.linkedin.com/in/wahidur-rahaman-22a42a20b)  
+- 💻 [GitHub](https://github.com/Wahidur123)  
+- 📧 wahidur@example.com *(replace with actual email)*
+
+---
+
+Thanks for stopping by!
