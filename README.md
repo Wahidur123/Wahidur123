@@ -1,5 +1,9 @@
 <!-- GitHub Profile README for Wahidur Rahaman -->
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Wahidur123/Wahidur123/main/hi-i-am-wahidur.png" alt="Hi, I'm Wahidur Rahaman!" />
+</p>
+
 <h1 align="center">Hi, I'm Wahidur Rahaman 👋</h1>
 
 <p align="center">
@@ -18,7 +22,7 @@
 ## 🧠 About Me
 
 I'm a passionate data explorer who recently completed the **PW Skills Data Analyst Course**.  
-I love playing with raw data, cleaning it, analyzing trends, and visualizing insights.
+I love handling with raw data, cleaning it, analyzing trends, and visualizing insights.
 
 Currently focused on:
 
@@ -51,7 +55,7 @@ Currently focused on:
 
 - 🌐 [LinkedIn](https://www.linkedin.com/in/wahidur-rahaman-22a42a20b)
 - 💻 [GitHub](https://github.com/Wahidur123)
-- 📧 Email: wahidur@example.com *(update with real one)*
+- 📧 Email: wahidurrahaman11301@gmail.com
 
 ---
 
