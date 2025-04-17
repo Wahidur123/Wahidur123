@@ -1,7 +1,8 @@
 <!-- GitHub Profile README for Wahidur Rahaman -->
 
+<!-- Dynamic Banner Image -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Wahidur123/Wahidur123/main/hi-i-am-wahidur.png" alt="Hi, I'm Wahidur Rahaman!" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0d6efd&height=200&section=header&text=Hi,%20I'm%20Wahidur%20Rahaman!&fontSize=40&fontColor=ffffff&animation=fadeIn" />
 </p>
 
 <h1 align="center">Hi, I'm Wahidur Rahaman 👋</h1>
@@ -10,6 +11,7 @@
   <em>Data Enthusiast | Excel Pro | Learning Python & Power BI</em>
 </p>
 
+<!-- Skill Badges -->
 <p align="center">
   <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
   <img src="https://img.shields.io/badge/SQL-005C84?style=for-the-badge&logo=postgresql&logoColor=white" />
@@ -21,8 +23,8 @@
 
 ## 🧠 About Me
 
-I'm a passionate data explorer who recently completed the **PW Skills Data Analyst Course**.  
-I love handling with raw data, cleaning it, analyzing trends, and visualizing insights.
+I'm Wahidur Rahaman, a passionate data explorer who recently completed the **PW Skills Data Analyst Course**.  
+I love playing with raw data, cleaning it, analyzing trends, and visualizing insights.
 
 Currently focused on:
 
